@@ -1,10 +1,9 @@
 import 'animate.css'
 import '../public/Global.css'
+import Head from 'next/head';
 import '../public/Animateds.scss'
 import { Fragment } from "react";
 import Footer from '../component/Home/Footer';
-import Head from 'next/head';
-
 
 export default function MyApp({ Component, pageProps }) {
     return (
