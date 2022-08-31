@@ -23,6 +23,7 @@ const Footer = () => {
             We Help provide Quality Shopping time with the best product in the market
           </FooterDivAboutText>
         </FooterDivAbout>
+        Developed By Brilliant Makanju
         <FooterDivAbout>
           <FooterDivAboutH1>
             About Us
