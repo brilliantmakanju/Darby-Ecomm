@@ -9,7 +9,7 @@ const Footer = () => {
     <FooterCont>
       <FooterDivSubCont>
         <FooterDivSubLogo>
-          D
+          Darby
         </FooterDivSubLogo>
         <FooterDivSubForm>
           <FooterDivSubFormEmail type='email' id='email' placeholder='Email' required />
